@@ -11,6 +11,7 @@ Session.vim
 .netrwhist
 *~
 # Auto-generated tag files
-tags
+# Comment out due to interference with Wagtail CMS
+#tags
 # Persistent undo
 [._]*.un~
