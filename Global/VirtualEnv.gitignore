@@ -3,7 +3,8 @@
 .Python
 [Bb]in
 [Ii]nclude
-[Ll]ib
+# Modify due to interference with django CMS
+Lib
 [Ll]ib64
 [Ll]ocal
 [Ss]cripts

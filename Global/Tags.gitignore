@@ -2,7 +2,8 @@
 TAGS
 .TAGS
 !TAGS/
-tags
+# Comment out due to interference with Wagtail CMS
+#tags
 .tags
 !tags/
 gtags.files
