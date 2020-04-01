@@ -1,5 +1,5 @@
-# gitignore-eturkes
-#### *This project is a custom fork of [gitignore](https://github.com/github/gitignore)*
+# gitignore
+#### *This project is a custom fork of [https://github.com/github/gitignore](https://github.com/github/gitignore)*
 
 # A collection of `.gitignore` templates
 
